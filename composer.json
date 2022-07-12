@@ -1,0 +1,12 @@
+{
+    "name": "codinginners/suporte",
+    "description": "This is my first project to learn new things about software developments and more. I think use SOLID principles and learning and implements new designs patterns",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "require": {
+        "php-activerecord/php-activerecord": "^1.2"
+    }
+}
